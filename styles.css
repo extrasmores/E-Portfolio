@@ -244,6 +244,7 @@ nav {
   flex: 1;
   display: flex;
   align-items: center;
+  margin: 20px 0;
 }
 
 .about-me__img {
