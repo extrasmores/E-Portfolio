@@ -93,12 +93,15 @@ li {
 }
 
 .text--purple {
-  color: #6030b1;
+  color: #3ad3a0;
 }
 
 section:nth-child(even) {
   background-color: #f8f8f8;
 }
+
+
+
 
 /* NAVIGATION BAR */
 
@@ -124,7 +127,7 @@ nav {
 }
 
 .nav__link--anchor-primary {
-  background-color: #6030b1;
+  background-color: #3ad3a0;
   padding: 8px 20px;
   border-radius: 50px;
   color: white;
@@ -137,7 +140,7 @@ nav {
 
 .personal__logo {
   font-size: 24px;
-  color: #6030b1;
+  color: #3ad3a0;
   margin: 0 12px;
   font-weight: bold;
 }
@@ -203,7 +206,7 @@ nav {
 
 .about-me__link {
   font-size: 20px;
-  color: #6030b1;
+  color: #3ad3a0;
   padding: 0 16px;
 }
 
